@@ -1,5 +1,5 @@
-file 5851233 1772795422                                         
-version 3
+file 5851233 1773254961                                         
+version 2
 run PureAlohaExperiment-31-20260306-12:10:21-8840
 attr configname PureAlohaExperiment
 attr datetime 20260306-12:10:21
@@ -41,133 +41,130 @@ attr enum IDLE=0,TRANSMISSION=1,COLLISION=2
 attr recordingmode vector
 attr source channelState
 attr title "Channel state"
+0	4498 2085445 0 174661 0 5399.968017269358 71794 0 2 82511 144663
 vector 1 Aloha.host[0] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+1	2089943 147751 0 174617 0 5398.199972604268 5085 0 1 2542 2542
 vector 2 Aloha.host[1] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+2	2237694 152125 0 174647 0 5399.662387836745 5239 0 1 2619 2619
 vector 3 Aloha.host[2] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+3	2389819 149091 0 174656 0 5399.90883966062 5137 0 1 2568 2568
 vector 4 Aloha.host[3] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+4	2538910 148408 0 174648 0 5399.671976372775 5113 0 1 2556 2556
 vector 5 Aloha.host[4] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+5	2687318 147194 0 174516 0 5395.118169122078 5065 0 1 2532 2532
 vector 6 Aloha.host[5] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+6	2834512 148771 0 174593 0 5397.72960492569 5125 0 1 2562 2562
 vector 7 Aloha.host[6] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+7	2983283 149812 0 174639 0 5399.081236341301 5157 0 1 2578 2578
 vector 8 Aloha.host[7] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+8	3133095 150981 0 174635 0 5398.780179516939 5195 0 1 2597 2597
 vector 9 Aloha.host[8] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+9	3284076 149267 0 174413 0 5391.411123698611 5139 0 1 2569 2569
 vector 10 Aloha.host[9] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+10	3433343 155831 0 174634 0 5398.720585535423 5187 0 1 2593 2593
 vector 11 Aloha.host[10] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+11	3589174 153511 0 174588 0 5397.490695921808 5109 0 1 2554 2554
 vector 12 Aloha.host[11] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+12	3742685 151234 0 174628 0 5398.385143282248 5039 0 1 2519 2519
 vector 13 Aloha.host[12] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+13	3893919 156739 0 174522 0 5395.308370244913 5215 0 1 2607 2607
 vector 14 Aloha.host[13] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+14	4050658 159680 0 174655 0 5399.851529054315 5319 0 1 2659 2659
 vector 15 Aloha.host[14] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+15	4210338 155259 0 174660 0 5399.968014042134 5166 0 1 2583 2583
 vector 16 Aloha.host[15] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+16	4365597 153867 0 174501 0 5394.230937178443 5119 0 1 2559 2559
 vector 17 Aloha.host[16] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+17	4519464 153150 0 174608 0 5398.018442008764 5097 0 1 2548 2548
 vector 18 Aloha.host[17] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+18	4672614 157222 0 174658 0 5399.955226163018 5236 0 1 2618 2618
 vector 19 Aloha.host[18] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+19	4829836 152278 0 174649 0 5399.685782020582 5071 0 1 2535 2535
 vector 20 Aloha.host[19] radioState:vector ETV
 attr enum IDLE=0,TRANSMIT=1
 attr recordingmode vector
 attr source state
 attr title "Radio state"
+20	4982114 152457 0 174570 0 5396.989995822885 5075 0 1 2537 2537
 vector 21 Aloha.server channelUtilizationVector:vector ETV
 attr interpolationmode linear
 attr recordingmode vector
 attr source timeavg(receive)
 attr title "channel utilization evolution"
-0	4498 927191 0 79753 0 2462.437871826905 32768 0 2 37712 66150
-0	931689 971187 79755 159427 2462.546438317409 4928.338282271699 32768 0 2 37593 65871
-0	1902876 187067 159429 174661 4928.375634008492 5399.968017269358 6258 0 2 7206 12642
-1	2089943 147751 0 174617 0 5398.199972604268 5085 0 1 2542 2542
-2	2237694 152125 0 174647 0 5399.662387836745 5239 0 1 2619 2619
-3	2389819 149091 0 174656 0 5399.90883966062 5137 0 1 2568 2568
-4	2538910 148408 0 174648 0 5399.671976372775 5113 0 1 2556 2556
-5	2687318 147194 0 174516 0 5395.118169122078 5065 0 1 2532 2532
-6	2834512 148771 0 174593 0 5397.72960492569 5125 0 1 2562 2562
-7	2983283 149812 0 174639 0 5399.081236341301 5157 0 1 2578 2578
-8	3133095 150981 0 174635 0 5398.780179516939 5195 0 1 2597 2597
-9	3284076 149267 0 174413 0 5391.411123698611 5139 0 1 2569 2569
-10	3433343 155831 0 174634 0 5398.720585535423 5187 0 1 2593 2593
-11	3589174 153511 0 174588 0 5397.490695921808 5109 0 1 2554 2554
-12	3742685 151234 0 174628 0 5398.385143282248 5039 0 1 2519 2519
-13	3893919 156739 0 174522 0 5395.308370244913 5215 0 1 2607 2607
-14	4050658 159680 0 174655 0 5399.851529054315 5319 0 1 2659 2659
-15	4210338 155259 0 174660 0 5399.968014042134 5166 0 1 2583 2583
-16	4365597 153867 0 174501 0 5394.230937178443 5119 0 1 2559 2559
-17	4519464 153150 0 174608 0 5398.018442008764 5097 0 1 2548 2548
-18	4672614 157222 0 174658 0 5399.955226163018 5236 0 1 2618 2618
-19	4829836 152278 0 174649 0 5399.685782020582 5071 0 1 2535 2535
-20	4982114 152457 0 174570 0 5396.989995822885 5075 0 1 2537 2537
-21	5134571 716660 4 174640 0.060126522497 5399.081239453033 15948 0 0.62254178717524 2352.303834594 347.44429501525
-
+21	5134571 716662 4 174640 0.060126522497 5399.081239453033 15948 0 0.62254178717524 2352.303834594 347.44429501525
