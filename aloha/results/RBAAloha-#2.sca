@@ -1,8 +1,8 @@
 version 3
-run RBAAloha-2-20260306-11:43:27-2292
+run RBAAloha-2-20260311-21:12:18-17936
 attr configname RBAAloha
-attr datetime 20260306-11:43:27
-attr datetimef 20260306-114327
+attr datetime 20260311-21:12:18
+attr datetimef 20260311-211218
 attr experiment RBAAloha
 attr inifile omnetpp.ini
 attr iterationvars ""
@@ -10,7 +10,7 @@ attr iterationvarsd ""
 attr iterationvarsf ""
 attr measurement ""
 attr network Aloha
-attr processid 2292
+attr processid 17936
 attr repetition 2
 attr replication #2
 attr resultdir results
