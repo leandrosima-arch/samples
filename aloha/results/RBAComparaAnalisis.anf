@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<analysis version="2">
+    <inputs>
+        <input pattern="RBACompara-mean=0.5,tipo=0ms-#0.sca"/>
+        <input pattern="RBACompara-mean=0.5,tipo=0ms-#0.vec"/>
+        <input pattern="RBACompara-mean=0.5,tipo=100ms-#0.sca"/>
+        <input pattern="RBACompara-mean=0.5,tipo=100ms-#0.vec"/>
+        <input pattern="RBACompara-mean=1,tipo=0ms-#0.sca"/>
+        <input pattern="RBACompara-mean=1,tipo=0ms-#0.vec"/>
+        <input pattern="RBACompara-mean=1,tipo=100ms-#0.sca"/>
+        <input pattern="RBACompara-mean=1,tipo=100ms-#0.vec"/>
+        <input pattern="RBACompara-mean=1.5,tipo=0ms-#0.sca"/>
+        <input pattern="RBACompara-mean=1.5,tipo=0ms-#0.vec"/>
+        <input pattern="RBACompara-mean=1.5,tipo=100ms-#0.sca"/>
+        <input pattern="RBACompara-mean=1.5,tipo=100ms-#0.vec"/>
+        <input pattern="RBACompara-mean=2,tipo=0ms-#0.sca"/>
+        <input pattern="RBACompara-mean=2,tipo=0ms-#0.vec"/>
+        <input pattern="RBACompara-mean=2,tipo=100ms-#0.sca"/>
+        <input pattern="RBACompara-mean=2,tipo=100ms-#0.vec"/>
+        <input pattern="RBACompara-mean=2.5,tipo=0ms-#0.sca"/>
+        <input pattern="RBACompara-mean=2.5,tipo=0ms-#0.vec"/>
+        <input pattern="RBACompara-mean=2.5,tipo=100ms-#0.sca"/>
+        <input pattern="RBACompara-mean=2.5,tipo=100ms-#0.vec"/>
+        <input pattern="RBACompara-mean=3,tipo=0ms-#0.sca"/>
+        <input pattern="RBACompara-mean=3,tipo=0ms-#0.vec"/>
+        <input pattern="RBACompara-mean=3,tipo=100ms-#0.sca"/>
+        <input pattern="RBACompara-mean=3,tipo=100ms-#0.vec"/>
+        <input pattern="RBACompara-mean=3.5,tipo=0ms-#0.sca"/>
+        <input pattern="RBACompara-mean=3.5,tipo=0ms-#0.vec"/>
+        <input pattern="RBACompara-mean=3.5,tipo=100ms-#0.sca"/>
+        <input pattern="RBACompara-mean=3.5,tipo=100ms-#0.vec"/>
+        <input pattern="RBACompara-mean=4,tipo=0ms-#0.sca"/>
+        <input pattern="RBACompara-mean=4,tipo=0ms-#0.vec"/>
+        <input pattern="RBACompara-mean=4,tipo=100ms-#0.sca"/>
+        <input pattern="RBACompara-mean=4,tipo=100ms-#0.vec"/>
+        <input pattern="RBACompara-mean=4.5,tipo=0ms-#0.sca"/>
+        <input pattern="RBACompara-mean=4.5,tipo=0ms-#0.vec"/>
+        <input pattern="RBACompara-mean=4.5,tipo=100ms-#0.sca"/>
+        <input pattern="RBACompara-mean=4.5,tipo=100ms-#0.vec"/>
+        <input pattern="RBACompara-mean=5,tipo=0ms-#0.sca"/>
+        <input pattern="RBACompara-mean=5,tipo=0ms-#0.vec"/>
+        <input pattern="RBACompara-mean=5,tipo=100ms-#0.sca"/>
+        <input pattern="RBACompara-mean=5,tipo=100ms-#0.vec"/>
+    </inputs>
+    <charts/>
+</analysis>
